@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Python, C, Javascript, HTML, CSS**
 
-- 📫 How to reach me **khushiparikh2019@gmail.com**
+- 📫 How to reach me **khushiparikh1001@gmail.com**
 
 - ⚡ Fun fact **Being a programmer, I love coffee!**
 
