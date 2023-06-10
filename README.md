@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Parikh</h1>
 <h3 align="center">An inquisitive learner</h3>
 
-- 🌱 I’m currently learning **Python and Backend**
+- 🌱 I’m currently learning **Python and Datascience**
 
-- 💬 Ask me about **Java, Python, C, Javascript, HTML, CSS**
+- 💬 Ask me about **PHP, Laravel, Java, Python, C, Javascript, HTML, CSS**
 
 - 📫 How to reach me **khushiparikh1001@gmail.com**
 
