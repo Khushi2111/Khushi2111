@@ -51,4 +51,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi2111&show_icons=true&locale=en" alt="khushi2111" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi2111&show_icons=true&locale=en" align="left" alt="khushi2111" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi2111&hide_border=true&layout=compact" align="right" style="width: 100%" alt="khushi2111" /></p>
