@@ -51,5 +51,12 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi2111&show_icons=true&locale=en" align="left" alt="khushi2111" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi2111&hide_border=true&layout=compact" align="right" style="width: 100%" alt="khushi2111" /></p>
+<p>&nbsp;<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khushi2111&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi2111&hide_border=true&layout=compact" align="right" style="width: 100%" />
+
+</td></tr></table> </p>
