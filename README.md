@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khushi Parikh</h1>
 <h3 align="center">An inquisitive learner</h3>
 
-- 🌱 I’m currently learning **Python and Datascience**
+🌱 I’m currently learning **Python and Datascience**
 
-- 💬 Ask me about **Java, Python, C, Javascript, HTML, CSS**
+💬 Ask me about **Java, Python, C, Javascript, HTML, CSS**
 
-- 📫 How to reach me **khushiparikh1001@gmail.com**
+📫 How to reach me **khushiparikh1001@gmail.com**
 
-- ⚡ Fun fact **Being a programmer, I love coffee!**
+⚡ Fun fact **Being a programmer, I love coffee!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
