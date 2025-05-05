@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Datascience**
 
-- 💬 Ask me about **PHP, Laravel, Java, Python, C, Javascript, HTML, CSS**
+- 💬 Ask me about **Java, Python, C, Javascript, HTML, CSS**
 
 - 📫 How to reach me **khushiparikh1001@gmail.com**
 
@@ -48,6 +48,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+</a>
 </p>
 
 
@@ -59,4 +62,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi2111&hide_border=true&layout=compact" align="right" style="width: 100%" />
 
-</td></tr></table> </p>
+</td></tr></table>
+</p>
